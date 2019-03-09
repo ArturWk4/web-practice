@@ -294,6 +294,8 @@ h1:hover ~ .line {
     width: 753px;
     margin: 0 auto;
 }
+
+
 .form-inputs {
     margin-top: 70px;
     display: flex;
@@ -339,6 +341,7 @@ input[type="submit"] {
 footer {
     background-color: #000000;
     text-align: center;
+
     padding: 30px;
 }
 footer h3 {
